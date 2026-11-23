@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Bangla News Feeds — FreshRSS</title>
+    <dateCreated>Mon, 23 Nov 2026 09:00:00 +0600</dateCreated>
+  </head>
+  <body>
+    <!-- All 5 feeds live-verified 2026-11-23: HTTP 200 + real RSS XML. -->
+    <!-- Blocked/unverifiable that day (Cloudflare 403 / 404 / wrong path) and NOT included: -->
+    <!-- Jugantor, Somoy TV, Jamuna TV, Kaler Kantho, Dhaka Tribune, NTV, bdnews24, Ittefaq. -->
+    <outline text="Bangla News" title="Bangla News">
+      <outline type="rss" text="Prothom Alo" title="Prothom Alo" xmlUrl="https://www.prothomalo.com/feed" htmlUrl="https://www.prothomalo.com/" />
+      <outline type="rss" text="BBC Bangla" title="BBC Bangla" xmlUrl="https://www.bbc.com/bengali/index.xml" htmlUrl="https://www.bbc.com/bengali" />
+      <outline type="rss" text="The Daily Star" title="The Daily Star" xmlUrl="https://www.thedailystar.net/rss.xml" htmlUrl="https://www.thedailystar.net/" />
+      <outline type="rss" text="Al Jazeera" title="Al Jazeera" xmlUrl="https://www.aljazeera.com/xml/rss/all.xml" htmlUrl="https://www.aljazeera.com/" />
+      <outline type="rss" text="BBC News" title="BBC News" xmlUrl="https://feeds.bbci.co.uk/news/rss.xml" htmlUrl="https://www.bbc.com/news" />
+    </outline>
+  </body>
+</opml>
